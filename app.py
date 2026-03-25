@@ -59,7 +59,7 @@ def color_semaforo(val):
 biblioteca = {
     "4 ETF's Principales": {'SPY': 'S&P 500', 'QQQ': 'Nasdaq 100', 'DIA': 'Dow Jones', 'IWM': 'Russell 2000'},
     "Sectores del S&P 500": {'XLY': 'Consumo Básico', 'XLP': 'Consumo Disfrutable', 'XLE': 'Energía', 'XLF': 'Finanzas', 'XLV': 'Salud', 'XLI': 'Industriales', 'XLB': 'Materiales', 'XLK': 'Tecnología', 'XLU': 'Servicios Públicos'},
-    "Commodities & FX": {'GC=F': 'Oro', 'CL=F': 'Petróleo', 'JPY=X': 'Yen Japonés', 'BTC-USD': 'Bitcoin'},
+    "Commodities & FX": {'GC': 'Oro', 'CL': 'Petróleo', 'JPY': 'Yen Japonés', 'BTC-USD': 'Bitcoin'},
     "Magníficas": {'AAPL': 'Apple', 'MSFT': 'Microsoft', 'NVDA': 'Nvidia', 'TSLA': 'Tesla', 'GOOGL': 'Alphabet', 'META': 'Meta', 'AMZN': 'Amazon'},
     
 }
